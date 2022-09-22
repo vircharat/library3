@@ -1,0 +1,15 @@
+C:\c_sharp\Library_management\Library_management\bin\Debug\Library_management.exe.config
+C:\c_sharp\Library_management\Library_management\bin\Debug\Library_management.exe
+C:\c_sharp\Library_management\Library_management\bin\Debug\Library_management.pdb
+C:\c_sharp\Library_management\Library_management\obj\Debug\Library_management.csproj.AssemblyReference.cache
+C:\c_sharp\Library_management\Library_management\obj\Debug\Library_management.csproj.SuggestedBindingRedirects.cache
+C:\c_sharp\Library_management\Library_management\obj\Debug\Library_management.csproj.CoreCompileInputs.cache
+C:\c_sharp\Library_management\Library_management\obj\Debug\Library_management.exe
+C:\c_sharp\Library_management\Library_management\obj\Debug\Library_management.pdb
+C:\c_sharp\Library_management\Library_management\bin\Debug\LibraryManagementDataa.dll
+C:\c_sharp\Library_management\Library_management\bin\Debug\LibraryManagementEntity.dll
+C:\c_sharp\Library_management\Library_management\bin\Debug\LibraryManagementDataa.pdb
+C:\c_sharp\Library_management\Library_management\bin\Debug\LibraryManagementEntity.pdb
+C:\c_sharp\Library_management\Library_management\obj\Debug\Library_Management.csproj.CopyComplete
+C:\c_sharp\Library_management\Library_management\bin\Debug\LibraryManagementBusinesss.dll
+C:\c_sharp\Library_management\Library_management\bin\Debug\LibraryManagementBusinesss.pdb

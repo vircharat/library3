@@ -1,0 +1,6 @@
+C:\c_sharp\Library_management\LibraryManagementEntity\bin\Debug\LibraryManagementEntity.dll
+C:\c_sharp\Library_management\LibraryManagementEntity\bin\Debug\LibraryManagementEntity.pdb
+C:\c_sharp\Library_management\LibraryManagementEntity\obj\Debug\LibraryManagementEntity.csproj.AssemblyReference.cache
+C:\c_sharp\Library_management\LibraryManagementEntity\obj\Debug\LibraryManagementEntity.csproj.CoreCompileInputs.cache
+C:\c_sharp\Library_management\LibraryManagementEntity\obj\Debug\LibraryManagementEntity.dll
+C:\c_sharp\Library_management\LibraryManagementEntity\obj\Debug\LibraryManagementEntity.pdb
